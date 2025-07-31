@@ -13,7 +13,8 @@
 </div>
 
 
-## 🚀 About Me
+## 🚀 About Me 
+
 
 
 Hi, I’m **Anil** — a passionate, detail-oriented, and solution-driven **Full-Stack Software Developer** with over **3 years** of experience in architecting and building robust web applications from the ground up.
@@ -44,48 +45,64 @@ Over the years, I’ve had the opportunity to:
 
 ## 🧠 Tech Stack
 
+### 🔤 Languages
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+</div>
+
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=for-the-badge&logo=styled-components)
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
+
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="40" alt="vite logo"  />
+ 
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+ 
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
+</div>
 
 ### 🔧 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
-![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?style=for-the-badge&logo=strapi)
-![Payload CMS](https://img.shields.io/badge/-Payload%20CMS-000?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Strapi](https://img.shields.io/badge/-Strapi-3f82fc?style=for-the-badge&logo=strapi&logoColor=white)
+![Payload CMS](https://img.shields.io/badge/-Payload%20CMS-292929?style=for-the-badge&logo=payloadcms&logoColor=white)
+
 
 ### 🛢️ Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws)
-![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 
 ### 🧩 APIs & Integrations
-![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=for-the-badge&logo=stripe)
-![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal)
-![Paytm](https://img.shields.io/badge/-Paytm-002970?style=for-the-badge)
-![Airtable](https://img.shields.io/badge/-Airtable-FF6950?style=for-the-badge&logo=airtable)
-![Shopify](https://img.shields.io/badge/-Shopify-96BF48?style=for-the-badge&logo=shopify)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-![Neon](https://img.shields.io/badge/-Neon-000000?style=for-the-badge&logo=neon)
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+![Paytm](https://img.shields.io/badge/-Paytm-002970?style=for-the-badge&logo=paytm&logoColor=white)
+![Airtable](https://img.shields.io/badge/-Airtable-FF6950?style=for-the-badge&logo=airtable&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Neon](https://img.shields.io/badge/-Neon-000000?style=for-the-badge&logo=neon&logoColor=white)
+
 
 ### 🤖 AI & Productivity Tools
-![Replit](https://img.shields.io/badge/-Replit-667881?style=for-the-badge&logo=replit)
-![Cursor](https://img.shields.io/badge/-Cursor-000?style=for-the-badge)
-![Bolt](https://img.shields.io/badge/-Bolt%20AI-blueviolet?style=for-the-badge)
-![Lovaabe](https://img.shields.io/badge/-Lovaabe-black?style=for-the-badge)
-![Windsurf](https://img.shields.io/badge/-Windsurf-ff69b4?style=for-the-badge)
-![Trae](https://img.shields.io/badge/-Trae-5A5ADB?style=for-the-badge)
+![Replit](https://img.shields.io/badge/-Replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Bolt AI](https://img.shields.io/badge/-Bolt%20AI-blueviolet?style=for-the-badge&logo=bolt&logoColor=white)
+![Lovaabe](https://img.shields.io/badge/-Lovaabe-000000?style=for-the-badge)
+![Windsurf](https://img.shields.io/badge/-Windsurf-ff69b4?style=for-the-badge&logoColor=white)
+![Trae](https://img.shields.io/badge/-Trae-5A5ADB?style=for-the-badge&logoColor=white)
 
 
 ### 
