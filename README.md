@@ -1,11 +1,20 @@
 <!-- 🎨 Colorful Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Hi+there+%F0%9F%91%8B+I'm+Anil!;Full-Stack+Developer+%7C+Node.js+%2B+React+Specialist;Turning+ideas+into+scalable+apps+%F0%9F%9A%80;Clean+Code+%E2%9C%94%EF%B8%8F+Scalable+Backends+%E2%9C%94%EF%B8%8F+Pixel-perfect+UIs+%E2%9C%94%EF%B8%8F" alt="Anil Intro Banner" />
+  <div style="display: inline-block; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 20px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=1000&height=100&lines=Hi+there+%F0%9F%91%8B+I'm+Anil!;Full-Stack+Developer+%7C+Node.js+%2B+React+Specialist;Turning+ideas+into+scalable+apps+%F0%9F%9A%80;Clean+Code+%E2%9C%94%EF%B8%8F+Scalable+Backends+%E2%9C%94%EF%B8%8F+Pixel-perfect+UIs+%E2%9C%94%EF%B8%8F" 
+         alt="Anil Intro Banner" 
+         style="border-radius: 10px;" />
+  </div>
 </p>
 
 ---
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anilgoswamistartbitsolutions.anilgoswamistartbitsolutions&"  />
+</div>
+
 
 ## 🚀 About Me
+
 
 Hi, I’m **Anil** — a passionate, detail-oriented, and solution-driven **Full-Stack Software Developer** with over **3 years** of experience in architecting and building robust web applications from the ground up.
 
@@ -78,3 +87,12 @@ Over the years, I’ve had the opportunity to:
 ![Windsurf](https://img.shields.io/badge/-Windsurf-ff69b4?style=for-the-badge)
 ![Trae](https://img.shields.io/badge/-Trae-5A5ADB?style=for-the-badge)
 
+
+### 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anilgoswamistartbitsolutions&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anilgoswamistartbitsolutions&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
